@@ -39,7 +39,7 @@ This project implements a Natural Language Processing (NLP) chatbot for food ord
   - git clone https://github.com/your-username/NLP-Chatbot-Food-Ordering.git
   - cd NLP-Chatbot-Food-Ordering
 
--**Install dependencies:**
+- **Install dependencies:**
   - pip install -r requirements.txt
 
 - Set up MySQL database and configure db_config in db_helper.py with your credentials.
