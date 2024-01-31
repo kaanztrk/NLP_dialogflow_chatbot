@@ -35,21 +35,21 @@ This project implements a Natural Language Processing (NLP) chatbot for food ord
 ## Getting Started
 
 1. Clone the repository:
-  git clone https://github.com/your-username/NLP-Chatbot-Food-Ordering.git
-  cd NLP-Chatbot-Food-Ordering
+  - git clone https://github.com/your-username/NLP-Chatbot-Food-Ordering.git
+  - cd NLP-Chatbot-Food-Ordering
 
 2. Install dependencies:
-  pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 3. Set up MySQL database and configure db_config in db_helper.py with your credentials.
 
 4. Run Ngrok to secure the localhost:
-  ngrok http 8000
+  - ngrok http 8000
 
 5. Update the Dialogflow fulfillment URL with the Ngrok HTTPS URL.
 
 6. Run the FastAPI application:
-  uvicorn main:app --reload
+  - uvicorn main:app --reload
 
 7.Access the chatbot interface by opening home.html in a web browser.
 
