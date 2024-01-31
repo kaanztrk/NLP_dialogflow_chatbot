@@ -7,7 +7,7 @@ This project implements a Natural Language Processing (NLP) chatbot for food ord
 ## Features
 
 - **User Interaction Flow:**
-  1. User initiates with "hi", and the chatbot directs them to say "new order" or "track order".
+  1. User initiates with greetings, and the chatbot directs them to say "new order" or "track order".
   2. User can create a new order by specifying food items and quantities.
   3. Modification of the order is possible by adding or removing items before completion.
   4. Upon completion, the chatbot generates an order ID for tracking.
