@@ -37,7 +37,7 @@ This project implements a Natural Language Processing (NLP) chatbot for food ord
 - **Clone the repository:**
   - Utilizes Flask for handling HTTP requests.
   - git clone https://github.com/kaanztrk/NLP_dialogflow_chatbot.git
-  - cd NLP-Chatbot-Food-Ordering
+  - cd NLP_dialogflow_chatbot
 
 - **Install dependencies:**
   - pip install -r requirements.txt
