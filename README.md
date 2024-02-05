@@ -39,6 +39,10 @@ This project implements a Natural Language Processing (NLP) chatbot for food ord
   - git clone https://github.com/kaanztrk/NLP_dialogflow_chatbot.git
   - cd NLP_dialogflow_chatbot
 
+- **Create virtual environment:**
+  - python -m venv venv
+  - venv\Scripts\activate
+
 - **Install dependencies:**
   - pip install -r requirements.txt
 
